@@ -1,9 +1,8 @@
 ### Hi there, I'm a Developer !
-- 🔭 I’m studying ad ICTU !
-- 🌱 I’m currently learning and doing everything 🤣
+- 🔭 I’m working at MinhHoangJSC !
 - 👯 I have had experience in some small projects.
-- 🥅 2020 Goals: College graduate and have a stable job.
-- ⚡ Fun fact: I love to travel, watch film.
+- 🥅 2020 Goals: Earn much money
+- ⚡ Fun fact: I love to travel, play soccer
 
 ### Connect with me:
 
