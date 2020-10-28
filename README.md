@@ -1,8 +1,7 @@
-### Hi there, I'm a Developer !
-- 🔭 I’m working at MinhHoangJSC !
-- 👯 I have had experience in some small projects.
-- 🥅 2020 Goals: Earn much money
-- ⚡ Fun fact: I love to travel, play soccer
+### Hi, I'm TuanCR.
+- 🔭 I’m working at MinhHoangJSC.
+- 🥅 Study hard
+- ⚡ Be yourself
 
 ### Connect with me:
 
