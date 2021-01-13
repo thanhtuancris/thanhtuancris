@@ -1,5 +1,4 @@
 Welcome to my github repository.
-      From Tuân CR with love <3.
 
 ### Connect with me:
 
