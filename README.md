@@ -1,6 +1,5 @@
-### Hi, I'm TuanCR.
-- 🔭 I’m a backend Developer.
-- 🌱 I’m currently learning more skills to become a DevOps.
+Welcome to my github repository.
+      From Tuân CR with love <3.
 
 ### Connect with me:
 
